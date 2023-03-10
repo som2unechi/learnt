@@ -1,3 +1,7 @@
+
+'''
+this code is sample template used for creating a music app with tkinter
+author : Somtoochukwu Chukwueze'''
 import os
 from tkinter import *
 from threading import Thread
